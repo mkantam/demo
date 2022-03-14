@@ -1,5 +1,4 @@
-# SIMPLE CRUD API WITH DJANGO REST FRAMEWORK
-[Django REST framework](http://www.django-rest-framework.org/) is a powerful and flexible toolkit for building Web APIs.
+# SIMPLE CRUD API For Recipe Application
 
 ## Requirements
 - Python 3.8.12
@@ -7,7 +6,7 @@
 - Django REST Framework
 
 ## Installation
-After you cloned the repository, you want to create a virtual environment, so you have a clean python installation.
+After cloning the repository, you want to create a virtual environment, so you have a clean python installation.
 You can do this by running the command
 ```
 python -m venv env
